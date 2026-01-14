@@ -21,10 +21,14 @@ I'm an aspiring AI Engineer with a background in frontend and mobile development
 
 ## 💡 Featured Projects
 
+Bachelor: 
+
 - 🎨 [ArtVista – Cross-platform Exam Project](https://github.com/oskarfritzner/ArtVista)  
-- 💆‍♀️ [Knipetak – Bachelor Project](https://github.com/Lodin03/knipetak)  
+- 💆‍♀️ [Knipetak – Bachelor Project](https://github.com/Lodin03/knipetak) 
 - 🏎️ [Fullstack F1 App – Web, DB, API](https://github.com/oskarfritzner/Fullstack-F1-App__Eksamen-Webutvikling)
 
-*(More coming soon!)*
+Machine Learning:
+CNN-LSTM Solar Power Forecasting Model
+Swarm Intelligence & RL Algorithms
 
 ---
